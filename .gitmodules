@@ -10,3 +10,7 @@
 	path = java-ladder
 	url = https://github.com/Integerous/java-ladder.git
 	branch = Integerous
+[submodule "java-bowling"]
+	path = java-bowling
+	url = https://github.com/Integerous/java-bowling.git
+	branch = Integerous
