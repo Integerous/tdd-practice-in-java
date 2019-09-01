@@ -6,3 +6,7 @@
 	path = java-lotto
 	url = https://github.com/Integerous/java-lotto.git
 	branch = Integerous
+[submodule "java-ladder"]
+	path = java-ladder
+	url = https://github.com/Integerous/java-ladder.git
+	branch = Integerous
