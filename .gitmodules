@@ -2,3 +2,7 @@
 	path = java-racingcar
 	url = https://github.com/Integerous/java-racingcar.git
 	branch = Integerous
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/Integerous/java-lotto.git
+	branch = Integerous
